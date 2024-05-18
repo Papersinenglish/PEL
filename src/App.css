@@ -1,0 +1,121 @@
+.bank{
+  /* color: #5CE1E6; */
+  color: rgb(30, 80, 187);
+}
+
+
+body{
+  /* --tw-bg-opacity: 1;
+  background-color: rgb(0 4 15/var(--tw-bg-opacity)); */
+  background-color:#F8FAFC;
+overflow-x: hidden !important;
+}
+.brand{
+  cursor:pointer;
+}
+.twenty-percent{
+  border-radius: 10px;
+   background: linear-gradient(125.17deg,#272727,#11101d);
+   width: 290px;
+   text-align: center;
+   height: 30px;
+}
+ .get-started{
+  background-image: url('../public/assets/Group\ 481768.png');
+  background-repeat: no-repeat;
+  height: 150px;
+width: 150px;
+background-size: contain;
+} 
+/* h1{
+font-weight: 700;
+  font-size: 70px;
+} */
+a{
+  text-decoration: none !important;
+}
+.text-gradient {
+  -webkit-text-fill-color: transparent;
+  /* background: radial-gradient(64.18% 64.18% at 71.16% 35.69%,#def9fa .89%,#bef3f5 17.23%,#9dedf0 42.04%,#7de7eb 55.12%,#5ce1e6 71.54%,#33bbcf 100%); */
+  background: linear-gradient(157157.81deg, rgb(14, 72, 222) 5.2%, rgb(3,22,65) 75.3%);
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+.dropdown-menu {
+background-color: rgb(3,22,65) !important;;
+}
+.big-text{
+  color: rgb(3,22,65) !important;
+}
+.logo{
+  height: 50px;
+width: 45px;
+}
+.logo2{
+  height: 150px;
+  width: 130px;
+}
+
+.p{
+  font-weight: 400;
+  /* width: 500px; */
+  font-size: larger;
+}
+ .primary1{
+  --tw-bg-opacity: 1;
+  background-color: rgb(0 4 15/var(--tw-bg-opacity)); 
+ }
+ .primary2{
+  --tw-bg-opacity: 1;
+  background-color:rgb(14, 46, 116); 
+ }
+.primary {
+  --tw-bg-opacity: 1;
+   /* background-color: rgb(0 4 15/var(--tw-bg-opacity)); */
+  /* background-color: #000080; */
+  background-color: rgb(3,22,65) !important;
+}
+.navbar-collapse{
+  justify-content: end;
+}
+.navbar{
+  font-size: 20px;
+padding-bottom: 0.2 rem !important;
+padding-top: 0.2 rem !important;
+}
+.nav-link{
+color: white !important;}
+.pa{
+  font-size: x-large;
+}
+.brand-span{
+  margin-bottom: 0px !important;
+}
+h1{
+  font-size: 50px;
+}
+@media screen and (max-width:600px){
+  h1{
+    font-weight: 500
+    !important;
+      font-size: 52px
+      !important;
+    }
+    .p{
+      font-weight: 300
+      !important;
+      width: 100%
+      !important;
+      font-size: large
+      !important;
+    }
+    .pa{
+      font-size: large;
+    }
+ .get-started{
+   width:85px
+   !important;
+   height:85px
+   !important;
+ }         
+}

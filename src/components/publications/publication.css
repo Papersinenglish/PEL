@@ -1,0 +1,11 @@
+.pub-header{
+    font-weight: bold;
+    color: rgb(22, 67, 165) !important ;
+}
+.content-header{
+    color: rgb(22, 67, 165) !important;   
+}
+.content-header a{
+    color: rgb(22, 67, 165) !important;
+    text-decoration: none;
+}
