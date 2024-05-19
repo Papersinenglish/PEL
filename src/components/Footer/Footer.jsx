@@ -18,9 +18,9 @@ function Footer() {
                   </div>
                   <div className=" col-sm-6 col-12 col-md-4 addpad"><h6>Quick Links</h6>
           <ul className="footer-links">
-            <li><Link to="">Publications</Link></li>
-            <li><Link to="">Mission</Link></li>
-            <li><Link to="">General Information</Link></li>
+            <li><Link to="/publications">Publications</Link></li>
+            <li><Link to="/#mission">Mission</Link></li>
+            <li><Link to="/generalinformation">General Information</Link></li>
             </ul>
           </div>
 
@@ -34,13 +34,6 @@ function Footer() {
            </ul>
         </div>
 
-        {/* <div className="col-sm-6 col-6 col-md-3">
-          <h6>Partner</h6>
-          <ul className="footer-links">
-            <li><a href="">Our Partner</a></li>
-            <li><a href="">Become a Partner</a></li>
-          </ul>
-        </div> */}
       </div>
       <hr className='brand-color'/>
     </div>

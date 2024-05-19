@@ -12,9 +12,6 @@
 .gen-child{
     flex:1 1 0%;
 }
-/* .p-width{
-    width: 500px; 
-} */
 .firstr{
     flex: 1 1 0%;
 }
@@ -61,9 +58,7 @@ background-color: white !important;
 .header-button:hover{
     opacity: 0.8;
 }
-/* third big section */
  .started-button{
-    /* background: linear-gradient(157.81deg, rgb(222, 249, 250) -43.27%, rgb(190, 243, 245) -21.24%, rgb(157, 237, 240) 12.19%, rgb(125, 231, 235) 29.82%, rgb(92, 225, 230) 51.94%, rgb(51, 187, 207) 90.29%); */
 background: linear-gradient(157157.81deg, rgb(14, 72, 222) 5.2%, rgb(3,22,65) 75.3%);
     width:160px;
 font-size: 19px;
@@ -74,45 +69,13 @@ border: none;
 .started-button:hover{
     opacity: 0.9;
 }
-.rewards{
-    border-radius: 15px;
-    width: 100%;
-}
-.rewards:hover{
-    background:  linear-gradient(144.39deg,#fff -278.56%,#6d6d6d -78.47%,#11101d 91.61%);
-    box-shadow: 0px 20px 100px -10px rgba(66,71,91,0.1);
-}
+
 .bg{
     background-image: url("/public/assets/pexels-artempodrez-7233130.jpg");
     background-size: cover;
 }
-.clients{
-    max-width: 360px;
-    min-width:290px;
-    padding: 2.5rem;
-    margin-left:2rem;
-border-radius: 20px;
-}
-.client-img{
-width: 48px;
-height: 48px;
-}
-.quotes{
-    width:48px;
-    height:27px;
-}
-.clients:hover{
-    background:  linear-gradient(144.39deg,#fff -278.56%,#6d6d6d -78.47%,#11101d 91.61%);
-    box-shadow: 0px 20px 100px -10px rgba(66,71,91,0.1);
-}
-.airbnb{
-    width: 180px;
-}
-@media screen and (max-width:800px) {
-    .airbnb{
-        width:100px;
-    }
-}
+
+
 .start{
     border-radius:15px;
     background:linear-gradient(157157.81deg, rgb(14, 72, 222) 5.2%, rgb(3,22,65) 75.3%);
@@ -120,8 +83,6 @@ height: 48px;
 }
 @media screen and (max-width:600px){
 h2{
-/* font-size: 40px
-!important; */
 font-weight: 500
 !important;
 }

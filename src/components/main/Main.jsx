@@ -17,13 +17,9 @@ function Main() {
   <Link to="/publications"><button className="header-button mb-4 p-2">View Publications</button></Link>
 </div>
 </div>
-{/* <div data-aos="zoom-in"  data-aos-duration="3000" className='firstr d-flex pr-5 justify-content-center align-items-center'>
-
-  <img src='assets/sourceimage.jpg' className='sourceimage' alt='book'/>
-</div> px-4 px-sm-2 */}
 </section>
 </div>
-{/*Stats*/}
+
 <div id='about'className='d-flex  align-items-start justify-content-center '>
 <div style={{width:'100%'}}>
 <section className='d-flex align-items-center justify-content-center flex-wrap mb-8'>
@@ -48,37 +44,20 @@ function Main() {
 
 <section className='d-flex justify-content-center p-4 vision align-items-center flex-wrap mb-5' id='mission'>
 <h2 data-aos="zoom-in" className='d-flex ps-2 text-dark flex-column'>Vision of the Journal</h2>
-  {/* <div><img src='assets/Group481727.png' alt='' className='ps-0 pb-1 pe-2'/></div> */}
   
   <div data-aos="zoom-in" className='d-flex text-dark talign flex-column'>
     <p className='pa'>To publish high quality, peer reviewed papers aimed at advancing research and teaching in English Studies and General Linguistics in Nigeria;</p>
   </div>
   <div data-aos="zoom-in" className='d-flex text-dark talign flex-column'>
-  {/* <div><img src='assets/Group481727.png' alt='' className='ps-0 pb-1 pe-2'/></div> */}
     <p className='pa'>To promote current and up-to-date research methodology applicable for research in English Studies and Linguistics;</p>
   </div>
   <div data-aos="zoom-in" className='d-flex text-dark talign flex-column'>
-  {/* <div><img src='assets/Group481727.png' alt='' className='ps-0 pb-1 pe-2'/></div> */}
     <p className='pa'>To encourage comprehensibility and understanding through reader-friendly presentation of papers;</p>
   </div>
   <div data-aos="zoom-in" className='d-flex text-dark talign flex-column'>
-  {/* <div><img src='assets/Group481727.png' alt='' className='ps-0 pb-1 pe-2'/></div> */}
     <p className='pa'>To provide space for Nigerian scholars to report their works and contribute to key debates in English Studies and General Linguistics.</p>
   </div>
 
-
-{/* <div className="d-flex justify-content-center gen-child align-items-center me-1">
-  <img src='assets/airbnb.png'alt='' className='airbnb'/>
-  </div>
-  <div className="d-flex justify-content-center  gen-child align-items-center me-1">
-  <img src='assets/binance.png'alt='' className='airbnb'/>
-  </div>
-  <div className="d-flex justify-content-center gen-child pb-2 align-items-center me-1">
-  <img src='assets/coinbase.png'alt='' className='airbnb'/>
-  </div>
-  <div className="d-flex justify-content-center  gen-child align-items-center me-1">
-  <img src='assets/dropbox.png'alt='' className='airbnb'/>
-  </div> */}
   </section>
 
 <section className='d-flex justify-content-center align-items-center mx-2 mb-5'>
