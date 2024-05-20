@@ -7,7 +7,7 @@ function Main() {
     return (
 < >
 <div className='d-flex justify-content-center align-items-start'>
-<section id='home' data-aos="zoom-in"  data-aos-duration="1500" className="py-5 bg d-flex flex-lg-row flex-column">
+<section id='home' data-aos="zoom-in"  data-aos-duration="2500" className="py-5 bg d-flex flex-lg-row flex-column">
 <div  className='px-3 px-md-5 firstl d-flex flex-column'> 
 <div className='d-flex gen'>
   <div className='gen-child'><h1 className='header big-text'>PAPERS IN</h1> <h1 className=' header big-text'>ENGLISH AND</h1><h1 className='header big-text'>LINGUISTICS</h1><h1 className='big-text header'>PEL</h1></div>
