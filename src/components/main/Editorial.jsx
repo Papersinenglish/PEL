@@ -6,7 +6,7 @@ function Editorial() {
     <div>
         <section className="d-flex p-2 editor-section flex-column justify-content-center align-items-center">
             <div><h3 className="p-2">Editor</h3></div>
-            <div className="p-2"><img className= 'editor-image' src="assets/editor.jpg"/></div>
+            <div className="p-2"><img className= 'editor-image' alt='Prof Kehinde Ayoola' src="assets/editor.jpg"/></div>
             <p className='text-center'> Kehinde A. Ayoola is a Professor in the Department of English, Obafemi Awolowo University, Ile-Ife. His areas of areas of specialisation and research interest are Applied Linguistics, Use of English, Critical Discourse Analysis and English for Specific purposes. He is the Editor, Journal of English Scholars Association of Nigeria (JESAN). Email: <a href="mailto:kehinday77@yahoo.co.uk">kehinday77@yahoo.co.uk</a> </p>
         </section>
         <section  className="d-flex p-2 ms-1 flex-column justify-content-start">

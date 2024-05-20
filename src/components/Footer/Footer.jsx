@@ -8,7 +8,7 @@ function Footer() {
     <div className="container">
       <div className="row align-items-center">
         <div className="col-sm-12 px-2 justify-content-center justify-content-md-start mb-2 flex-column col-md-4">
-          <h2 className='' href=""><img className="logo2" src="assets/logo.png"/></h2>
+          <h2 className='' href=""><img className="logo2" alt='logo'src="assets/logo.png"/></h2>
          <h5 className='text-white'>PEL</h5>
          <p className='text-white'>Humanities Block III, Room 306</p>
 <p className='text-white'>Department of English</p>
@@ -28,9 +28,9 @@ function Footer() {
         <div className="col-sm-6 col-12 col-md-4">
           <h6>Community</h6>
           <ul className="footer-links">
-            <li><a>Suggestions</a></li>
+            <li><a href='#!'>Suggestions</a></li>
             <li><Link to="/">Home</Link></li>
-            <li><a>Newsletters</a></li>
+            <li><a href='#!'>Newsletters</a></li>
            </ul>
         </div>
 
@@ -46,10 +46,10 @@ function Footer() {
 
         <div className="col-md-4 col-sm-6 col-12">
           <ul className="social-icons">
-            <li><a className="facebook" href="#"><i className="fa fa-facebook"></i></a></li>
-            <li><a className="twitter" href="#"><i className="fa fa-twitter"></i></a></li>
-            <li><a className="dribbble" href="#"><i className="fa fa-dribbble"></i></a></li>
-            <li><a className="linkedin" href="#"><i className="fa fa-linkedin"></i></a></li>   
+            <li><a className="facebook" href="#!"><i className="fa fa-facebook"></i></a></li>
+            <li><a className="twitter" href="#!"><i className="fa fa-twitter"></i></a></li>
+            <li><a className="dribbble" href="#!"><i className="fa fa-dribbble"></i></a></li>
+            <li><a className="linkedin" href="#!"><i className="fa fa-linkedin"></i></a></li>   
           </ul>
         </div>
       </div>

@@ -9,7 +9,7 @@ const Navigation = () =>{
   return(
     <Navbar collapseOnSelect className='primary' expand="lg"  variant="dark">
     <Container className='navbar text-white' >
-      <Navbar.Brand className='d-flex brand align-items-center' href=""><Link to="/" className='text-white'><img className="logo" src="assets/logo.png"/></Link><h3><span className="brand-span"><Link to="/" className='text-white'>PEL</Link></span></h3></Navbar.Brand>
+      <Navbar.Brand className='d-flex brand align-items-center' href=""><Link to="/" className='text-white'><img className="logo" alt='logo' src="assets/logo.png"/></Link><h3><span className="brand-span"><Link to="/" className='text-white'>PEL</Link></span></h3></Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
       <Nav>
