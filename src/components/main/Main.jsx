@@ -13,7 +13,7 @@ function Main() {
   <div className='gen-child'><h1 className='header big-text'>PAPERS IN</h1> <h1 className=' header big-text'>ENGLISH AND</h1><h1 className='header big-text'>LINGUISTICS</h1><h1 className='big-text header'>PEL</h1></div>
 </div>
 <div>
-  <p className='p-header'>Papers in English Language (PEL) is a journal domiciled in the Department of English, Obafemi Awolowo University, Ile-Ife. The journal is published twice annually in June and December.</p>
+  <p className='p-header'>Papers in English and Linguistics (PEL) is a journal domiciled in the Department of English, Obafemi Awolowo University, Ile-Ife. The journal is published twice annually in June and December.</p>
   <Link to="/publications"><button className="header-button mb-4 p-2">View Publications</button></Link>
 </div>
 </div>
