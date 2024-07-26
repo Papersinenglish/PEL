@@ -32,7 +32,7 @@ function App() {
         <Route path="/publications" element={<Publication/>} />
         <Route path="/volume24-no-1&2" element={<Volume24no12/>} />
         <Route path="/volume24-no-3&4" element={<Volume24no34/>} />
-        <Route path="/volume24-no-3&4" element={<Volume25no12/>} />
+        <Route path="/volume24-no-1&2" element={<Volume25no12/>} />
       </Routes>     
 <Footer/> 
     </>
