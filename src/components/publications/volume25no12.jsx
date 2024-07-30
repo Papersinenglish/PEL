@@ -24,6 +24,11 @@ function Volume25no12() {
 Bola Ahmed Tinubu's Inaugural Speech - 
  <strong> Mohammed T. Sadiq & Habibu Sani</strong> - 46 </p></a>
               </div>
+              <div className="p-2">
+              <a href= '/volume-25-no1&2/LiteratureandFilmAfolabiBMandAkanoKA.pdf'> <p>Literature and Film: A Close Reading of Femi Osofisan's Ma'ami and Tunde Kelani's 
+Ma'ami 
+ <strong> Beatrice Morenike Afolabi & Mathew Kayode Akano</strong> - 62 </p></a>
+              </div>
                             
             <hr/>
     
