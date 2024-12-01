@@ -24,7 +24,14 @@ function Volume25no12() {
 Bola Ahmed Tinubu's Inaugural Speech - 
  <strong> Mohammed T. Sadiq & Habibu Sani</strong> - 46 </p></a>
                </div>
-              
+              <div className="p-2">
+              <a href= '/volume-25-no1&2/TheCommunicativeRelevanceofKinshipTerms.pdf'><p>The Communicative Relevance of Kinship Terms for Student Mentoring in Southwestern Nigerian Tertiary Institutions -  
+ <strong>Vivian Alofe & Mathew Kayode Akano</strong> - 62 </p></a>
+              </div>
+              <div className="p-2">
+              <a href= '/volume-25-no1&2/Pragma-linguisticAnalysisofAdvertisements.pdf'> <p> A Pragma-linguistic Analysis of Textual Features in Some Advertisements by Nigerian Companies on YouTube - 
+ <strong> Abosede A. Otemuyiwa & Alice O. Babalola</strong> - 83 </p></a>
+               </div>
                             
             <hr/>
     
