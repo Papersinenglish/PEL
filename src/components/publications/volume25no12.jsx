@@ -32,9 +32,13 @@ Bola Ahmed Tinubu's Inaugural Speech -
               <a href= '/volume-25-no1&2/Pragma-linguisticAnalysisofAdvertisements.pdf'> <p> A Pragma-linguistic Analysis of Textual Features in Some Advertisements by Nigerian Companies on YouTube - 
  <strong> Abosede A. Otemuyiwa & Alice O. Babalola</strong> - 83 </p></a>
                </div>
-                            
+               <div></div>
+               <div className="p-2">
+              <a href= '/volume-25-no1&2/TowardsaNewParadigmforLanguageTeachingandLearningAkintayoA.pdf'> <p>Towards a New Paradigm for Language Teaching and Learning: Perspectives on Video Conferencing - 
+ <strong> Abiodun Akintayo</strong> - 92 </p></a>
+               </div>       
             <hr/>
-    
+
         </section>
     </div>
   )
