@@ -40,7 +40,7 @@ function Footer() {
     <div className="container">
       <div className="row">
         <div className="col-md-8 col-sm-6">
-          <p className="copyright-text">Copyright &copy; 2024 All Rights Reserved by Papers in English and Linguistics.
+          <p className="copyright-text">Copyright &copy; 2025 All Rights Reserved by Papers in English and Linguistics.
           </p>
         </div>
 
