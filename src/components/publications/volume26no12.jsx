@@ -29,6 +29,10 @@ Nigerian English Rhythm -
               <a href= '/volume-26-no1&2/MorphophonemicStudyofUmunzePersonalNamesOnahPandPEze.pdf'> <p> A Morpho-phonemic Study of Umunze Personal Names, Southeastern Nigeria - 
  <strong> Patrick Onah and Patricia Eze </strong> - 64 </p></a>
                </div>   
+               <div className="p-2">
+              <a href= '/volume-26-no1&2/NewContrastiveAnalysisofthePronunciationofVowelSoundsSondeFakiyesiandAdejumo.pdf'> <p>A Contrastive Analysis of the Pronunciation of Vowel Sounds among Yoruba-English Bilingual Students in Southwest Nigeria  - 
+ <strong> Simeon Olufunso Sonde, Temitope Morenike Fakiyesi & Olubunmi Lydia Adejumo</strong> - 79 </p></a>
+               </div> 
             <hr/>
 
         </section> 
