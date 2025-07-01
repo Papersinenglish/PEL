@@ -32,7 +32,11 @@ Nigerian English Rhythm -
                <div className="p-2">
               <a href= '/volume-26-no1&2/NewContrastiveAnalysisofthePronunciationofVowelSoundsSondeFakiyesiandAdejumo.pdf'> <p>A Contrastive Analysis of the Pronunciation of Vowel Sounds among Yoruba-English Bilingual Students in Southwest Nigeria  - 
  <strong> Simeon Olufunso Sonde, Temitope Morenike Fakiyesi & Olubunmi Lydia Adejumo</strong> - 79 </p></a>
-               </div> 
+               </div>
+               <div className="p-2">
+              <a href= '/volume-26-no1&2/BookReviewACriticalExamination-Eyeh,S.O..pdf'> <p>Book Review: A Critical Examination of Zainab Alkali and AI Imfeld’s Vultures in the Air: Voices from Northern Nigeria as 21st Century Northern Nigerian Literature 
+ <strong> Stephen O. Eyeh</strong> - 96 </p></a>
+               </div>  
             <hr/>
 
         </section> 
