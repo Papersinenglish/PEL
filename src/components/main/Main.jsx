@@ -23,7 +23,7 @@ function Main() {
 <div id='about'className='d-flex  align-items-start justify-content-center '>
 <div style={{width:'100%'}}>
 <section className='d-flex align-items-center justify-content-center flex-wrap mb-8'>
-  <div data-aos="zoom-in-left" className='align-items-center m-3 d-flex justify-content-start '><h3 className='text-dark'>24&nbsp;</h3><h3 className='text-gradient'>VOLUMES</h3></div>
+  <div data-aos="zoom-in-left" className='align-items-center m-3 d-flex justify-content-start '><h3 className='text-dark'>26&nbsp;</h3><h3 className='text-gradient'>VOLUMES</h3></div>
   <div data-aos="zoom-in" className='align-items-center m-3 d-flex justify-content-start '><h3 className='text-dark'>250+&nbsp;</h3><h3 className='text-gradient'>PAPERS</h3></div>
   <div data-aos="zoom-in-right" className='align-items-center m-3 d-flex justify-content-start '><h3 className='text-dark'>2000+&nbsp;</h3><h3 className='text-gradient'>CITATIONS</h3></div>
 </section>
