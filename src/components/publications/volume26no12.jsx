@@ -5,7 +5,7 @@ function Volume25no12() {
   return (
     <div className="p-2">
       <section className='content-header d-flex flex-column justify-content-start'>
-        <h3 className="p-2" >Vol. 25, Nos. 1&2, Mar/Jun 2025</h3>
+        <h3 className="p-2" >Vol. 26, Nos. 1&2, Mar/Jun 2025</h3>
         <h5 className="p-2">CONTENTS</h5>
             <div className="p-2 contents">
              <a href= '/volume-26-no1&2/AspectsofYorubaPhonologyintheSpeechofIgedeYorubaBilingualResidentsAdeniyiK.pdf'><p> Aspects of Yoruba Phonology in the Speech of Igede-Yoruba Bilingual Migrants in 
