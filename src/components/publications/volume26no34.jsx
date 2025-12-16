@@ -18,6 +18,10 @@ function Volume26no34() {
               <a href= '/volume-26-no3&4/AntonymicRelationasaTropeofMeaningMaledoORandOgboruLE.pdf'><p>Antonymic Relation as a Trope of Meaning in the Poetry of Tanure Ojaide -  
  <strong>Oliseyenum Richard Maledo & Lawrence Efe Ogboru </strong> - 39 </p></a>
               </div>
+               <div className="p-2">
+              <a href= '/volume-26-no3&4/SocialMediaSkitCultureandProfessionalArtsEntertainmentOgbodoE.pdf'><p>Social Media Skits Culture and Professional Arts Entertainment in Nigeria -  
+ <strong>Edith Ogbodo </strong> - 51 </p></a>
+              </div>
             <hr/>
         </section> 
     </div>
