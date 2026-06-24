@@ -7,7 +7,7 @@ function Volume27no1() {
     <div className="p-2">
       <section className='content-header d-flex flex-column justify-content-start'>
         
-        <h3 className="p-2" >Vol. 27, Nos. 1, March 2026</h3>
+        <strong><h3 className="p-2" >Vol. 27, Nos. 1, March 2026</h3></strong>
         <div><img src={pelcovervol27no1} alt=" PEL Cover Vol 27 No 1" className ="col-6 col-lg-4 col-md-4"/></div>
         <h5 className="p-2">CONTENTS</h5>
             <div className="p-2 contents">
