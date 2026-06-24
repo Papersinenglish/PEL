@@ -6,8 +6,9 @@ function Volume27no1() {
   return (
     <div className="p-2">
       <section className='content-header d-flex flex-column justify-content-start'>
-        <div><img src={pelcovervol27no1} alt=" PEL Cover Vol 27 No 1" className ="col-sm-6 col-lg-4 col-md-4"/></div>
+        
         <h3 className="p-2" >Vol. 27, Nos. 1, March 2026</h3>
+        <div><img src={pelcovervol27no1} alt=" PEL Cover Vol 27 No 1" className ="col-sm-6 col-lg-4 col-md-4"/></div>
         <h5 className="p-2">CONTENTS</h5>
             <div className="p-2 contents">
              <a href= '/volume-27-no1/MythicalThoughtsandIdeologicalBordersAbahTMJuliusJBJosephNEandChibuikeNC.pdf'><p>Mythical Thoughts and Ideological Borders in Chinua Achebe’s Arrow of God - <strong>Thomas Michael Abah, Joseph Gbenga Julius, Nenfort E. Joseph, & Nwafor Charles Chibuike</strong> - 1 </p> </a> 
