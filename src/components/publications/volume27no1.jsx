@@ -1,11 +1,12 @@
 import React from 'react'
 import './publication.css'
+import pelcovervol27no1 from "./PELCoverVol27No1.jpeg"
 
 function Volume27no1() {
   return (
     <div className="p-2">
       <section className='content-header d-flex flex-column justify-content-start'>
-        <div><img src='PELCoverVol27No1.jpeg'/></div>
+        <div><img src={pelcovervol27no1} alt=" PEL Cover Vol 27 No 1" /></div>
         <h3 className="p-2" >Vol. 27, Nos. 1, March 2026</h3>
         <h5 className="p-2">CONTENTS</h5>
             <div className="p-2 contents">
