@@ -5,6 +5,7 @@ function Volume27no1() {
   return (
     <div className="p-2">
       <section className='content-header d-flex flex-column justify-content-start'>
+        <div><img src='public\volume-27-no1\PELCoverVol27No1.jpeg'/></div>
         <h3 className="p-2" >Vol. 27, Nos. 1, March 2026</h3>
         <h5 className="p-2">CONTENTS</h5>
             <div className="p-2 contents">
