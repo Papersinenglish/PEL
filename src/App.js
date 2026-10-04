@@ -16,7 +16,7 @@ import Volume25no12 from './components/publications/volume25no12';
 import Volume26no12 from './components/publications/volume26no12';
 import Volume26no34 from './components/publications/volume26no34';
 import Volume27no1 from './components/publications/volume27no1';
-
+import Volume27no34 from './components/publications/volume27no34';
 import ScrollToHashElement from "./components/main/ScrolltoHashElement";
 
 function App() {
@@ -40,6 +40,7 @@ function App() {
         <Route path="/volume26-no-1&2" element={<Volume26no12/>} />
         <Route path="/volume26-no-3&4" element={<Volume26no34/>} />
         <Route path="/volume27-no-1" element={<Volume27no1/>} />
+        <Route path="/volume27-no-3&4" element={<Volume27no34/>} />
       </Routes>     
 <Footer/> 
     </>
